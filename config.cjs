@@ -3,7 +3,7 @@ const fs = require("fs");
 require("dotenv").config();
 
 const config = {
-  SESSION_ID: process.env.SESSION_ID || "Your Session Id",
+  SESSION_ID: process.env.SESSION_ID || "CLOUD-AI~VMYUwC6B#CNWOgH_zhONkDsGly4SvCSAAfcYzPxo05q3GCkEK_xM",
   PREFIX: process.env.PREFIX || '.',
   AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN !== undefined ? process.env.AUTO_STATUS_SEEN === 'true' : true, 
   AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY !== undefined ? process.env.AUTO_STATUS_REPLY === 'true' : true,
@@ -24,8 +24,8 @@ const config = {
   BOT_NAME: process.env.BOT_NAME || "ℂ𝕃𝕆𝕌𝔻 𝔸𝕀",
   MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/7l1tt5.jpg",
   DESCRIPTION: process.env.DESCRIPTION || "© ℝ𝔼𝔾𝔸ℝ𝔻𝕊 𝔹𝔼ℝ𝔸",
-  OWNER_NAME: process.env.OWNER_NAME || "𝔹ℝ𝕌ℂ𝔼 𝔹𝔼ℝ𝔸",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "0743982206",
+  OWNER_NAME: process.env.OWNER_NAME || "𝐷𝐸ℕ𝐵𝙊𝑌☆",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "27620206611",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
