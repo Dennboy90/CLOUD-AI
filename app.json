@@ -8,9 +8,9 @@
   "env": { 
   
     "SESSION_ID": {
-      "description": "Ensure your session Id starts with the word CLOUD-AI~$",
+      "description": "CLOUD-AI~VMYUwC6B#CNWOgH_zhONkDsGly4SvCSAAfcYzPxo05q3GCkEK_xM",
       "required": true,
-      "value": ""
+      "value": "true"
     },
     "MODE": {
       "description": "Set to 'public' or 'private' to define bot mode",
@@ -20,12 +20,12 @@
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
       "required": true,
-      "value": "BRUCE BERA"
+      "value": "𝐷𝐸ℕ𝐵𝙊𝑌☆"
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
       "required": true,
-      "value": "254743982206"
+      "value": "27620206611"
     },
     "AUTO_READ": {
       "description": "Enable bot to auto-read messages (true/false)",
@@ -40,7 +40,7 @@
     "AUTO_RECORDING": {
       "description": "Enable bot to show recording status (true/false)",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "ALWAYS_ONLINE": {
       "description": "Keep bot always online (true/false)",
